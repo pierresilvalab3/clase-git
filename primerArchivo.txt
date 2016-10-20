@@ -1,2 +1,2 @@
-Esta es una linea para el archivo. Este es un cambio.
+Esta es una linea para el archivo.
 Esta es otra linea.
